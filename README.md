@@ -1,4 +1,4 @@
-## EIP7702 Wallet full drain POC
+## EIP-7702 Wallet full drain POC
 
 **EIP-7702 wallet full drain proof-of-code**
 
